@@ -1576,7 +1576,7 @@ body,
 @media screen and (max-width: 776px) {
   .swiper img {
     margin: 5px;
-    width: 87px;
+    width: 20%;
   }
   .swiper {
     width: 100%;
@@ -1602,6 +1602,7 @@ body,
   }
   .internship-card .button-container a {
     font-size: 8px;
+    text-align:center;
   }
 
   .internship-card {
